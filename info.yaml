@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     414124872671308801      # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Full Adder Jainil"      # Project title
-  author:       "Jainil"      # Your name
+  wokwi_id:     414163828817419265      # Set this to the ID of your Wokwi project (the number from the project's URL)
+  title:        "Morse Code for J and R"      # Project title
+  author:       "Jainil Rao"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Full Adder"      # One line description of what your project does
+  description:  "A morse code generator circuit for alphabets J and R"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -27,12 +27,12 @@ pinout:
   # Outputs
   uo[0]: "OUT0"
   uo[1]: "OUT1"
-  uo[2]: "OUT2"
-  uo[3]: "OUT3"
-  uo[4]: "OUT4"
-  uo[5]: "OUT5"
-  uo[6]: "OUT6"
-  uo[7]: "OUT7"
+  uo[2]: ""
+  uo[3]: ""
+  uo[4]: ""
+  uo[5]: ""
+  uo[6]: ""
+  uo[7]: ""
 
   # Bidirectional pins
   uio[0]: ""
