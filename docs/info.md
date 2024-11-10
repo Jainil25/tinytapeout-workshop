@@ -13,7 +13,7 @@ I have used a 4bit synchronous counter to used And and Or gates to simulate "." 
 
 ## How to test
 
-We can test it by connecting a 7 segment display and we can change inputs with a button(for J it's ".---" and for R it's ".-.".
+We can test it by connecting a 7 segment display and we can change inputs with a button(for J it's ".---" and for R it's ".-.").
 
 ## External hardware
 
